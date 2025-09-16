@@ -1,57 +1,56 @@
 {
   "main": {
-    "id": "6d5b86f1195d2632",
+    "id": "e2856fb10e3faa89",
     "type": "split",
     "children": [
       {
-        "id": "9ce795e04a86a243",
+        "id": "18f9cb485f061857",
         "type": "tabs",
         "children": [
           {
-            "id": "c246b8db5cf1d244",
+            "id": "c10d7aa84ebfd323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "test out.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "test out"
             }
-          }
-        ]
-      },
-      {
-        "id": "77a4fffa4123143a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3855287cd391854e",
+            "id": "942f35bb06143958",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Hey hi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hey hi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "50893b5375efa354",
+    "id": "e36fc23e853eda91",
     "type": "split",
     "children": [
       {
-        "id": "0230bd7568699e48",
+        "id": "9ebfabe7f7f1efde",
         "type": "tabs",
         "children": [
           {
-            "id": "d95753b6c180aff8",
+            "id": "49975a8c84deeb3b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +63,7 @@
             }
           },
           {
-            "id": "f968dff5bdae9b9a",
+            "id": "90be3f535534ae4e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +80,7 @@
             }
           },
           {
-            "id": "5433e474efc61e4c",
+            "id": "369514a4de21cb6f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +96,19 @@
     "width": 300
   },
   "right": {
-    "id": "cce630cbb224ede3",
+    "id": "193757dd43c2ba96",
     "type": "split",
     "children": [
       {
-        "id": "a084d0a938f48aa3",
+        "id": "890ebcf4b270cb87",
         "type": "tabs",
         "children": [
           {
-            "id": "02f42858d28e243b",
+            "id": "0d7048b7babce29e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +118,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c8173659e13279d8",
+            "id": "5dbee312971a9c23",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "8572688e25dea2da",
+            "id": "9390bfdf8290efa6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,18 +150,17 @@
             }
           },
           {
-            "id": "9d1d8f2150a76156",
+            "id": "90d86c11f6da5cfe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -176,18 +172,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3855287cd391854e",
+  "active": "942f35bb06143958",
   "lastOpenFiles": [
+    "test out.md",
+    "Hey hi.md",
     "Welcome.md"
   ]
 }
